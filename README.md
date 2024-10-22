@@ -1,4 +1,4 @@
-#Base-titanic
+# Análise de Dados - Base Titanic
 
 O dataset "Titanic", que contém informações sobre os passageiros, incluindo variáveis como:
 
